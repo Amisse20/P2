@@ -1,0 +1,16 @@
+Perform following programs in c#.
+1.	Write console based program in code behind language VB or C# to print following pattern. 
+@ @ @ @ @
+ @ @ @ @ 
+@ @ @ 
+@ @
+@
+2.	Write console based program in code behind language VB or C# to print following pattern. 
+1 
+1 2 
+1 2 3 
+1 2 3 4
+3.	Write C# code to prompt a user to input his/her name and country name and then the output will be shown as an example below: 
+Hello Ram from country India
+4.	What is inheritance? Create C# console application to define Car class and derive Maruti and Mahindra from it to demonstrate inheritance.
+
